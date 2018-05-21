@@ -3081,6 +3081,14 @@ telephone in the navbar
     color: #3cb0cb;
 }
 
+figure {
+    margin: 0 0 0;
+}
+
+
+a i {
+    margin-left: 0;
+}
 /*********************************************
 E. Responsive
 *********************************************/
